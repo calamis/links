@@ -1,1 +1,1 @@
-![alt text](https://github.com/calamis/links/blob/media/screenshot.png?raw=true)
+![alt text](https://github.com/calamis/links/blob/media/images/screenshot.png?raw=true)
